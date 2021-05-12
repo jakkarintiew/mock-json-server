@@ -2,6 +2,2134 @@
   "regions_windowed": [
     {
       "region": "Canada",
+      "user_count": 504.0,
+      "transaction_count": 27.6587301587,
+      "total_gold_USD": 1051.2437619048,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 8408.0,
+      "transaction_count": 19.1738820171,
+      "total_gold_USD": 240.8720619981,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 22314.0,
+      "transaction_count": 21.9436228377,
+      "total_gold_USD": 142.2323419466,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "USA",
+      "user_count": 28833.0,
+      "transaction_count": 180.5227690494,
+      "total_gold_USD": 2849.5244280023,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4206.0,
+      "transaction_count": 105.3906324299,
+      "total_gold_USD": 2497.6979604151,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 13071.0,
+      "transaction_count": 33.4313365466,
+      "total_gold_USD": 688.5122985885,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 7278.0,
+      "transaction_count": 127.4909315746,
+      "total_gold_USD": 1068.5231830305,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "India",
+      "user_count": 36123.0,
+      "transaction_count": 16.7636685768,
+      "total_gold_USD": 110.6946257417,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1247.0,
+      "transaction_count": 771.6808340016,
+      "total_gold_USD": 3003.6912845314,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 498.0,
+      "transaction_count": 21.8473895582,
+      "total_gold_USD": 316.0961506024,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1066.0,
+      "transaction_count": 54.7363977486,
+      "total_gold_USD": 2155.6318963508,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "EU",
+      "user_count": 1188.0,
+      "transaction_count": 20.6506734007,
+      "total_gold_USD": 540.4509486801,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Australia",
+      "user_count": 734.0,
+      "transaction_count": 63.8038147139,
+      "total_gold_USD": 1869.8863728556,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3015.0,
+      "transaction_count": 67.0868988391,
+      "total_gold_USD": 727.4568497637,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 58.0,
+      "transaction_count": 23.5,
+      "total_gold_USD": 693.6669041379,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 70.0,
+      "transaction_count": 25.2428571429,
+      "total_gold_USD": 626.5418569714,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 328.0,
+      "transaction_count": 106.0792682927,
+      "total_gold_USD": 1751.7762170061,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 556.0,
+      "transaction_count": 67.4550359712,
+      "total_gold_USD": 478.9387402656,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 41.0,
+      "transaction_count": 12.6585365854,
+      "total_gold_USD": 215.6785828718,
+      "date": "2021-01-01"
+    },
+    {
+      "region": "Canada",
+      "user_count": 504.0,
+      "transaction_count": 27.1448412698,
+      "total_gold_USD": 1015.0146496667,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 8392.0,
+      "transaction_count": 19.2017397521,
+      "total_gold_USD": 239.0751220267,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 22632.0,
+      "transaction_count": 21.4376104631,
+      "total_gold_USD": 138.2370423296,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "USA",
+      "user_count": 28776.0,
+      "transaction_count": 178.5887545177,
+      "total_gold_USD": 2794.4913842666,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4221.0,
+      "transaction_count": 104.1468846245,
+      "total_gold_USD": 2460.5232219559,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12966.0,
+      "transaction_count": 33.8208391177,
+      "total_gold_USD": 688.7484682212,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 7481.0,
+      "transaction_count": 125.995722497,
+      "total_gold_USD": 1056.5753560695,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "India",
+      "user_count": 38205.0,
+      "transaction_count": 17.2888365397,
+      "total_gold_USD": 112.3050593869,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1299.0,
+      "transaction_count": 811.6381832179,
+      "total_gold_USD": 3140.7220058417,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 500.0,
+      "transaction_count": 22.1,
+      "total_gold_USD": 323.96619,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1074.0,
+      "transaction_count": 52.8417132216,
+      "total_gold_USD": 2089.7123291061,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "EU",
+      "user_count": 1180.0,
+      "transaction_count": 20.6262711864,
+      "total_gold_USD": 542.2056834051,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Australia",
+      "user_count": 752.0,
+      "transaction_count": 62.4281914894,
+      "total_gold_USD": 1844.916289766,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 2993.0,
+      "transaction_count": 67.2856665553,
+      "total_gold_USD": 733.1494409805,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 57.0,
+      "transaction_count": 23.2105263158,
+      "total_gold_USD": 705.5044981053,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 72.0,
+      "transaction_count": 26.7083333333,
+      "total_gold_USD": 700.6689167639,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 341.0,
+      "transaction_count": 113.4281524927,
+      "total_gold_USD": 1971.171064915,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 553.0,
+      "transaction_count": 70.0994575045,
+      "total_gold_USD": 490.4138403846,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 37.0,
+      "transaction_count": 13.3243243243,
+      "total_gold_USD": 231.5677595848,
+      "date": "2021-01-08"
+    },
+    {
+      "region": "Canada",
+      "user_count": 496.0,
+      "transaction_count": 26.1612903226,
+      "total_gold_USD": 928.6497024133,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 8503.0,
+      "transaction_count": 19.1264259673,
+      "total_gold_USD": 237.6173736601,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 23014.0,
+      "transaction_count": 20.3998001217,
+      "total_gold_USD": 131.4027973197,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "USA",
+      "user_count": 28387.0,
+      "transaction_count": 169.8446119703,
+      "total_gold_USD": 2691.7237172877,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4265.0,
+      "transaction_count": 99.7692848769,
+      "total_gold_USD": 2355.9784197623,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12883.0,
+      "transaction_count": 33.3992858806,
+      "total_gold_USD": 676.5639225111,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 7717.0,
+      "transaction_count": 123.2214591162,
+      "total_gold_USD": 1038.8278394226,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "India",
+      "user_count": 40626.0,
+      "transaction_count": 17.5828287304,
+      "total_gold_USD": 113.8806277273,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1357.0,
+      "transaction_count": 822.3758290346,
+      "total_gold_USD": 3174.007796776,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 479.0,
+      "transaction_count": 22.2045929019,
+      "total_gold_USD": 332.8956936952,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1090.0,
+      "transaction_count": 49.280733945,
+      "total_gold_USD": 1957.6480058532,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "EU",
+      "user_count": 1202.0,
+      "transaction_count": 20.1131447587,
+      "total_gold_USD": 535.9741219418,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Australia",
+      "user_count": 743.0,
+      "transaction_count": 59.7779273217,
+      "total_gold_USD": 1818.526594245,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 2984.0,
+      "transaction_count": 64.8153485255,
+      "total_gold_USD": 712.27725088,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 59.0,
+      "transaction_count": 22.0677966102,
+      "total_gold_USD": 692.5332287458,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 78.0,
+      "transaction_count": 26.4358974359,
+      "total_gold_USD": 682.5751184167,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 371.0,
+      "transaction_count": 120.4177897574,
+      "total_gold_USD": 2198.1410671321,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 548.0,
+      "transaction_count": 72.5145985401,
+      "total_gold_USD": 500.7154262494,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 33.0,
+      "transaction_count": 14.0303030303,
+      "total_gold_USD": 247.3889437142,
+      "date": "2021-01-15"
+    },
+    {
+      "region": "Canada",
+      "user_count": 508.0,
+      "transaction_count": 25.3090551181,
+      "total_gold_USD": 850.8599223661,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 8703.0,
+      "transaction_count": 18.9681718947,
+      "total_gold_USD": 235.4464075505,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 23388.0,
+      "transaction_count": 19.9032837352,
+      "total_gold_USD": 125.6268418409,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "USA",
+      "user_count": 28688.0,
+      "transaction_count": 168.9996165644,
+      "total_gold_USD": 2634.5084329292,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4310.0,
+      "transaction_count": 98.3737819026,
+      "total_gold_USD": 2300.0618646599,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12905.0,
+      "transaction_count": 33.5593180938,
+      "total_gold_USD": 669.9410924457,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 7956.0,
+      "transaction_count": 125.7467320261,
+      "total_gold_USD": 1059.6968762463,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "India",
+      "user_count": 50538.0,
+      "transaction_count": 17.5287110689,
+      "total_gold_USD": 109.7526690503,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1441.0,
+      "transaction_count": 843.3213046495,
+      "total_gold_USD": 3354.1418909403,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 482.0,
+      "transaction_count": 22.7261410788,
+      "total_gold_USD": 336.7598950207,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1081.0,
+      "transaction_count": 47.4070305273,
+      "total_gold_USD": 1921.990173691,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "EU",
+      "user_count": 1243.0,
+      "transaction_count": 19.9670152856,
+      "total_gold_USD": 534.1419787723,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Australia",
+      "user_count": 756.0,
+      "transaction_count": 59.6653439153,
+      "total_gold_USD": 1801.8290430437,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3054.0,
+      "transaction_count": 66.2770137525,
+      "total_gold_USD": 710.310364727,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 58.0,
+      "transaction_count": 22.4827586207,
+      "total_gold_USD": 728.1702204138,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 78.0,
+      "transaction_count": 27.5641025641,
+      "total_gold_USD": 691.8514507756,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 405.0,
+      "transaction_count": 147.2543209877,
+      "total_gold_USD": 2532.3426906469,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 568.0,
+      "transaction_count": 73.2394366197,
+      "total_gold_USD": 511.7169646843,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 35.0,
+      "transaction_count": 13.2,
+      "total_gold_USD": 231.72365584,
+      "date": "2021-01-22"
+    },
+    {
+      "region": "Canada",
+      "user_count": 513.0,
+      "transaction_count": 24.6803118908,
+      "total_gold_USD": 801.5445347778,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 8926.0,
+      "transaction_count": 18.9995518709,
+      "total_gold_USD": 237.7589712368,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 24018.0,
+      "transaction_count": 19.7147556,
+      "total_gold_USD": 121.9269760423,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "USA",
+      "user_count": 28670.0,
+      "transaction_count": 165.7364841298,
+      "total_gold_USD": 2522.3128344623,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4357.0,
+      "transaction_count": 96.0796419555,
+      "total_gold_USD": 2224.5254365944,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12890.0,
+      "transaction_count": 33.3724592708,
+      "total_gold_USD": 655.1205084866,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8253.0,
+      "transaction_count": 124.2115594329,
+      "total_gold_USD": 1041.962283368,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "India",
+      "user_count": 55316.0,
+      "transaction_count": 17.5934268566,
+      "total_gold_USD": 109.3073931209,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1512.0,
+      "transaction_count": 881.1481481481,
+      "total_gold_USD": 3474.9480231045,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 485.0,
+      "transaction_count": 22.975257732,
+      "total_gold_USD": 339.1202164948,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1069.0,
+      "transaction_count": 45.5135640786,
+      "total_gold_USD": 1871.8561448363,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "EU",
+      "user_count": 1277.0,
+      "transaction_count": 19.692247455,
+      "total_gold_USD": 524.7042497056,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Australia",
+      "user_count": 762.0,
+      "transaction_count": 58.6404199475,
+      "total_gold_USD": 1773.3032781785,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3082.0,
+      "transaction_count": 66.5227125243,
+      "total_gold_USD": 709.5915575001,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 58.0,
+      "transaction_count": 22.5517241379,
+      "total_gold_USD": 742.2653987586,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 78.0,
+      "transaction_count": 28.6794871795,
+      "total_gold_USD": 700.5979639551,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 424.0,
+      "transaction_count": 152.5518867925,
+      "total_gold_USD": 2657.8292628868,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 573.0,
+      "transaction_count": 80.1047120419,
+      "total_gold_USD": 544.0170003537,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 36.0,
+      "transaction_count": 14.5555555556,
+      "total_gold_USD": 222.2870555232,
+      "date": "2021-01-29"
+    },
+    {
+      "region": "Canada",
+      "user_count": 507.0,
+      "transaction_count": 24.9289940828,
+      "total_gold_USD": 782.3769972663,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9174.0,
+      "transaction_count": 19.0410943972,
+      "total_gold_USD": 236.584735465,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 24301.0,
+      "transaction_count": 19.5398954776,
+      "total_gold_USD": 119.9806678044,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "USA",
+      "user_count": 28680.0,
+      "transaction_count": 162.185181311,
+      "total_gold_USD": 2406.92178719,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4391.0,
+      "transaction_count": 92.9945342747,
+      "total_gold_USD": 2127.8926448445,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12752.0,
+      "transaction_count": 33.4481649937,
+      "total_gold_USD": 641.3306511837,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8498.0,
+      "transaction_count": 125.3658507884,
+      "total_gold_USD": 1043.4578583295,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "India",
+      "user_count": 59142.0,
+      "transaction_count": 18.040495756,
+      "total_gold_USD": 110.8615478751,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1563.0,
+      "transaction_count": 891.257837492,
+      "total_gold_USD": 3491.1628780792,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 484.0,
+      "transaction_count": 22.882231405,
+      "total_gold_USD": 339.04986,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1071.0,
+      "transaction_count": 43.1886087768,
+      "total_gold_USD": 1733.2371004482,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "EU",
+      "user_count": 1317.0,
+      "transaction_count": 19.0341685649,
+      "total_gold_USD": 514.8868447153,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Australia",
+      "user_count": 759.0,
+      "transaction_count": 58.3056653491,
+      "total_gold_USD": 1755.3731157325,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3122.0,
+      "transaction_count": 66.6290839206,
+      "total_gold_USD": 705.8316799215,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 57.0,
+      "transaction_count": 22.5087719298,
+      "total_gold_USD": 739.6577626667,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 76.0,
+      "transaction_count": 30.8026315789,
+      "total_gold_USD": 709.8053089342,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 432.0,
+      "transaction_count": 160.1990740741,
+      "total_gold_USD": 2838.3540174954,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 572.0,
+      "transaction_count": 81.7325174825,
+      "total_gold_USD": 555.3757642285,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 37.0,
+      "transaction_count": 14.0810810811,
+      "total_gold_USD": 216.4421311334,
+      "date": "2021-02-05"
+    },
+    {
+      "region": "Canada",
+      "user_count": 507.0,
+      "transaction_count": 24.8796844181,
+      "total_gold_USD": 777.8064732899,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9307.0,
+      "transaction_count": 19.5572149995,
+      "total_gold_USD": 248.3739278904,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 24671.0,
+      "transaction_count": 19.3309553727,
+      "total_gold_USD": 118.9904407277,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "USA",
+      "user_count": 28734.0,
+      "transaction_count": 159.4284819378,
+      "total_gold_USD": 2315.5329217261,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4433.0,
+      "transaction_count": 90.5301150462,
+      "total_gold_USD": 2051.9610563442,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12806.0,
+      "transaction_count": 33.4504138685,
+      "total_gold_USD": 625.1636622721,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8710.0,
+      "transaction_count": 128.6941446613,
+      "total_gold_USD": 1059.5329453235,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "India",
+      "user_count": 62182.0,
+      "transaction_count": 18.2536264514,
+      "total_gold_USD": 111.5801224582,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1614.0,
+      "transaction_count": 898.0086741016,
+      "total_gold_USD": 3503.6186136915,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 490.0,
+      "transaction_count": 23.0979591837,
+      "total_gold_USD": 343.9264045714,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1068.0,
+      "transaction_count": 41.063670412,
+      "total_gold_USD": 1641.8171998034,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "EU",
+      "user_count": 1327.0,
+      "transaction_count": 18.8877166541,
+      "total_gold_USD": 514.1780556488,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Australia",
+      "user_count": 760.0,
+      "transaction_count": 58.0105263158,
+      "total_gold_USD": 1732.4553975671,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3143.0,
+      "transaction_count": 66.9312758511,
+      "total_gold_USD": 702.1941154759,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 59.0,
+      "transaction_count": 21.6779661017,
+      "total_gold_USD": 715.0596321356,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 79.0,
+      "transaction_count": 31.4303797468,
+      "total_gold_USD": 712.1480190127,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 432.0,
+      "transaction_count": 166.400462963,
+      "total_gold_USD": 2985.4357786296,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 565.0,
+      "transaction_count": 81.8584070796,
+      "total_gold_USD": 560.4497828419,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 34.0,
+      "transaction_count": 14.9411764706,
+      "total_gold_USD": 217.8681182012,
+      "date": "2021-02-12"
+    },
+    {
+      "region": "Canada",
+      "user_count": 508.0,
+      "transaction_count": 24.8169291339,
+      "total_gold_USD": 752.5284115748,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9512.0,
+      "transaction_count": 20.0369007569,
+      "total_gold_USD": 257.5117030828,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 25480.0,
+      "transaction_count": 19.3098901099,
+      "total_gold_USD": 118.628236262,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "USA",
+      "user_count": 28839.0,
+      "transaction_count": 156.4192239675,
+      "total_gold_USD": 2211.4760767472,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4457.0,
+      "transaction_count": 88.6995737043,
+      "total_gold_USD": 1994.9748582217,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12874.0,
+      "transaction_count": 33.6503029362,
+      "total_gold_USD": 614.7876014783,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8965.0,
+      "transaction_count": 130.4101505856,
+      "total_gold_USD": 1061.9971938451,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "India",
+      "user_count": 65096.0,
+      "transaction_count": 18.4677245914,
+      "total_gold_USD": 112.2628240495,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1672.0,
+      "transaction_count": 924.4551435407,
+      "total_gold_USD": 3594.167917411,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 496.0,
+      "transaction_count": 23.1209677419,
+      "total_gold_USD": 349.8213960484,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1073.0,
+      "transaction_count": 38.4669151911,
+      "total_gold_USD": 1554.3169158061,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "EU",
+      "user_count": 1350.0,
+      "transaction_count": 18.6,
+      "total_gold_USD": 504.7423870563,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Australia",
+      "user_count": 749.0,
+      "transaction_count": 58.2216288385,
+      "total_gold_USD": 1730.9671858491,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3175.0,
+      "transaction_count": 67.5675590551,
+      "total_gold_USD": 698.1462456512,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 59.0,
+      "transaction_count": 21.7457627119,
+      "total_gold_USD": 715.2530271186,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 87.0,
+      "transaction_count": 30.2528735632,
+      "total_gold_USD": 671.5383111839,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 439.0,
+      "transaction_count": 167.6264236902,
+      "total_gold_USD": 3007.0810409795,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 556.0,
+      "transaction_count": 81.4064748201,
+      "total_gold_USD": 560.6915708753,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 34.0,
+      "transaction_count": 15.2352941176,
+      "total_gold_USD": 221.123261702,
+      "date": "2021-02-19"
+    },
+    {
+      "region": "Canada",
+      "user_count": 516.0,
+      "transaction_count": 24.6472868217,
+      "total_gold_USD": 733.8796520174,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9406.0,
+      "transaction_count": 20.8444609824,
+      "total_gold_USD": 271.5362253685,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 26809.0,
+      "transaction_count": 18.8046178522,
+      "total_gold_USD": 114.2031223943,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "USA",
+      "user_count": 28782.0,
+      "transaction_count": 154.0062191648,
+      "total_gold_USD": 2119.0637328544,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4486.0,
+      "transaction_count": 86.6234953188,
+      "total_gold_USD": 1904.3043571699,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12842.0,
+      "transaction_count": 34.0424388724,
+      "total_gold_USD": 612.6867453925,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8810.0,
+      "transaction_count": 134.927014756,
+      "total_gold_USD": 1095.4068139227,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "India",
+      "user_count": 67722.0,
+      "transaction_count": 18.7110687812,
+      "total_gold_USD": 113.8888237059,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1732.0,
+      "transaction_count": 973.1766743649,
+      "total_gold_USD": 3817.4448885168,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 492.0,
+      "transaction_count": 23.3109756098,
+      "total_gold_USD": 351.8448912195,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1070.0,
+      "transaction_count": 34.8691588785,
+      "total_gold_USD": 1426.6332811963,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "EU",
+      "user_count": 1379.0,
+      "transaction_count": 18.2806381436,
+      "total_gold_USD": 497.9138881653,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Australia",
+      "user_count": 752.0,
+      "transaction_count": 57.4375,
+      "total_gold_USD": 1710.3861812088,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3175.0,
+      "transaction_count": 68.1766929134,
+      "total_gold_USD": 700.5524669763,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 64.0,
+      "transaction_count": 19.953125,
+      "total_gold_USD": 682.273756125,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 89.0,
+      "transaction_count": 30.5730337079,
+      "total_gold_USD": 667.7599694101,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 438.0,
+      "transaction_count": 172.0913242009,
+      "total_gold_USD": 3119.8597643995,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 554.0,
+      "transaction_count": 83.8736462094,
+      "total_gold_USD": 572.7184710325,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 34.0,
+      "transaction_count": 16.4117647059,
+      "total_gold_USD": 214.464725853,
+      "date": "2021-02-26"
+    },
+    {
+      "region": "Canada",
+      "user_count": 525.0,
+      "transaction_count": 24.8876190476,
+      "total_gold_USD": 725.1948460914,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9323.0,
+      "transaction_count": 21.320175909,
+      "total_gold_USD": 280.1435297033,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 27589.0,
+      "transaction_count": 18.4850121425,
+      "total_gold_USD": 111.3418417343,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "USA",
+      "user_count": 28788.0,
+      "transaction_count": 151.6479783243,
+      "total_gold_USD": 2027.1923670595,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4532.0,
+      "transaction_count": 83.7987643425,
+      "total_gold_USD": 1780.7223669095,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12820.0,
+      "transaction_count": 34.6255850234,
+      "total_gold_USD": 617.3450124094,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8588.0,
+      "transaction_count": 139.8962505822,
+      "total_gold_USD": 1149.9499839993,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "India",
+      "user_count": 70825.0,
+      "transaction_count": 19.2325732439,
+      "total_gold_USD": 115.6672366242,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1838.0,
+      "transaction_count": 1006.0168661589,
+      "total_gold_USD": 4006.354524397,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 493.0,
+      "transaction_count": 23.5212981744,
+      "total_gold_USD": 354.685268641,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1062.0,
+      "transaction_count": 30.7222222222,
+      "total_gold_USD": 1242.8618937571,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "EU",
+      "user_count": 1426.0,
+      "transaction_count": 17.9438990182,
+      "total_gold_USD": 490.6953569327,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Australia",
+      "user_count": 762.0,
+      "transaction_count": 57.2637795276,
+      "total_gold_USD": 1673.280261168,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3174.0,
+      "transaction_count": 69.6187775677,
+      "total_gold_USD": 718.5539102955,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 66.0,
+      "transaction_count": 19.2424242424,
+      "total_gold_USD": 653.6782391515,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 91.0,
+      "transaction_count": 30.5274725275,
+      "total_gold_USD": 654.3411319451,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 442.0,
+      "transaction_count": 175.6719457014,
+      "total_gold_USD": 3193.5601909299,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 569.0,
+      "transaction_count": 86.3356766257,
+      "total_gold_USD": 590.4703941968,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 33.0,
+      "transaction_count": 17.0303030303,
+      "total_gold_USD": 188.905101837,
+      "date": "2021-03-05"
+    },
+    {
+      "region": "Canada",
+      "user_count": 523.0,
+      "transaction_count": 25.3135755258,
+      "total_gold_USD": 729.5008628317,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9407.0,
+      "transaction_count": 21.7180822792,
+      "total_gold_USD": 283.0022357857,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 28803.0,
+      "transaction_count": 18.1965767455,
+      "total_gold_USD": 107.5433958377,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "USA",
+      "user_count": 28714.0,
+      "transaction_count": 149.1799122379,
+      "total_gold_USD": 1935.327876528,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4519.0,
+      "transaction_count": 80.7658774065,
+      "total_gold_USD": 1657.1479939664,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12824.0,
+      "transaction_count": 35.8284466625,
+      "total_gold_USD": 619.7772449659,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8525.0,
+      "transaction_count": 144.8495014663,
+      "total_gold_USD": 1187.2745366831,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "India",
+      "user_count": 73621.0,
+      "transaction_count": 19.5261813885,
+      "total_gold_USD": 117.5477867304,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1905.0,
+      "transaction_count": 991.9275590551,
+      "total_gold_USD": 3934.0398860372,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 482.0,
+      "transaction_count": 24.1887966805,
+      "total_gold_USD": 364.5618674689,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1074.0,
+      "transaction_count": 24.6284916201,
+      "total_gold_USD": 1000.803632486,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "EU",
+      "user_count": 1447.0,
+      "transaction_count": 17.9751209399,
+      "total_gold_USD": 495.6053387077,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Australia",
+      "user_count": 757.0,
+      "transaction_count": 57.5019815059,
+      "total_gold_USD": 1673.3396109168,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3192.0,
+      "transaction_count": 71.1271929825,
+      "total_gold_USD": 727.6444326609,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 65.0,
+      "transaction_count": 19.5538461538,
+      "total_gold_USD": 687.8657586462,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 93.0,
+      "transaction_count": 30.6774193548,
+      "total_gold_USD": 652.1791293763,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 448.0,
+      "transaction_count": 178.3080357143,
+      "total_gold_USD": 3297.3026629688,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 569.0,
+      "transaction_count": 86.5641476274,
+      "total_gold_USD": 597.708803232,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 35.0,
+      "transaction_count": 16.2571428571,
+      "total_gold_USD": 167.9600842788,
+      "date": "2021-03-12"
+    },
+    {
+      "region": "Canada",
+      "user_count": 527.0,
+      "transaction_count": 25.4800759013,
+      "total_gold_USD": 737.6484325275,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9535.0,
+      "transaction_count": 21.9069743052,
+      "total_gold_USD": 283.6451639337,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 29941.0,
+      "transaction_count": 17.7887512107,
+      "total_gold_USD": 104.2998035895,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "USA",
+      "user_count": 28497.0,
+      "transaction_count": 144.8364740148,
+      "total_gold_USD": 1825.8597771488,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4529.0,
+      "transaction_count": 72.5281519099,
+      "total_gold_USD": 1452.9170700437,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12790.0,
+      "transaction_count": 37.5941360438,
+      "total_gold_USD": 621.658755159,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8585.0,
+      "transaction_count": 151.1995340711,
+      "total_gold_USD": 1246.1209897749,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "India",
+      "user_count": 78415.0,
+      "transaction_count": 19.9828731748,
+      "total_gold_USD": 119.6287488954,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1953.0,
+      "transaction_count": 992.062467998,
+      "total_gold_USD": 3899.3835077387,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 466.0,
+      "transaction_count": 24.6673819742,
+      "total_gold_USD": 376.8036386266,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1101.0,
+      "transaction_count": 21.3133514986,
+      "total_gold_USD": 808.3808121526,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "EU",
+      "user_count": 1461.0,
+      "transaction_count": 18.1211498973,
+      "total_gold_USD": 500.1142339288,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Australia",
+      "user_count": 762.0,
+      "transaction_count": 57.9501312336,
+      "total_gold_USD": 1683.0412902283,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3263.0,
+      "transaction_count": 71.8574931045,
+      "total_gold_USD": 729.609190745,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 65.0,
+      "transaction_count": 19.7230769231,
+      "total_gold_USD": 700.7188643692,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 93.0,
+      "transaction_count": 30.9462365591,
+      "total_gold_USD": 654.5125836183,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 447.0,
+      "transaction_count": 185.8277404922,
+      "total_gold_USD": 3461.6947856331,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 560.0,
+      "transaction_count": 87.3714285714,
+      "total_gold_USD": 604.8325398196,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 34.0,
+      "transaction_count": 16.6176470588,
+      "total_gold_USD": 153.5998814861,
+      "date": "2021-03-19"
+    },
+    {
+      "region": "Canada",
+      "user_count": 523.0,
+      "transaction_count": 26.137667304,
+      "total_gold_USD": 740.9910394187,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9645.0,
+      "transaction_count": 21.9659927424,
+      "total_gold_USD": 281.2274675297,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 31749.0,
+      "transaction_count": 17.4042647013,
+      "total_gold_USD": 99.7632553163,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "USA",
+      "user_count": 28394.0,
+      "transaction_count": 143.4656969782,
+      "total_gold_USD": 1786.619918913,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4474.0,
+      "transaction_count": 67.767098793,
+      "total_gold_USD": 1373.7562684882,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12757.0,
+      "transaction_count": 38.588696402,
+      "total_gold_USD": 630.8378695085,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8554.0,
+      "transaction_count": 158.5634790741,
+      "total_gold_USD": 1302.5502812169,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "India",
+      "user_count": 80684.0,
+      "transaction_count": 20.3110282088,
+      "total_gold_USD": 121.4024758578,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 1997.0,
+      "transaction_count": 982.3214822233,
+      "total_gold_USD": 3857.9212472895,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 466.0,
+      "transaction_count": 25.2939914163,
+      "total_gold_USD": 382.4406213734,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1115.0,
+      "transaction_count": 20.9695067265,
+      "total_gold_USD": 757.9811115336,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "EU",
+      "user_count": 1480.0,
+      "transaction_count": 18.1871621622,
+      "total_gold_USD": 503.22477505,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Australia",
+      "user_count": 746.0,
+      "transaction_count": 57.9343163539,
+      "total_gold_USD": 1673.6757575483,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3346.0,
+      "transaction_count": 71.8263598326,
+      "total_gold_USD": 732.797887185,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 64.0,
+      "transaction_count": 19.40625,
+      "total_gold_USD": 689.363122,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 94.0,
+      "transaction_count": 31.5744680851,
+      "total_gold_USD": 648.6889158883,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 453.0,
+      "transaction_count": 193.8145695364,
+      "total_gold_USD": 3597.2301421788,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 555.0,
+      "transaction_count": 89.0738738739,
+      "total_gold_USD": 613.8061242667,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 34.0,
+      "transaction_count": 16.8823529412,
+      "total_gold_USD": 156.6588066812,
+      "date": "2021-03-26"
+    },
+    {
+      "region": "Canada",
+      "user_count": 530.0,
+      "transaction_count": 26.7660377358,
+      "total_gold_USD": 749.1877338396,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9730.0,
+      "transaction_count": 22.4049331963,
+      "total_gold_USD": 285.0842089254,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 32604.0,
+      "transaction_count": 17.0495644706,
+      "total_gold_USD": 96.2669174617,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "USA",
+      "user_count": 28024.0,
+      "transaction_count": 141.6925849272,
+      "total_gold_USD": 1727.363207521,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4398.0,
+      "transaction_count": 63.747157799,
+      "total_gold_USD": 1329.1376951282,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12723.0,
+      "transaction_count": 39.1399041107,
+      "total_gold_USD": 642.9418471323,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8413.0,
+      "transaction_count": 165.9089504339,
+      "total_gold_USD": 1347.221042609,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "India",
+      "user_count": 81566.0,
+      "transaction_count": 20.7919598852,
+      "total_gold_USD": 122.9348013741,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 2074.0,
+      "transaction_count": 978.2835101254,
+      "total_gold_USD": 3846.8541555189,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 462.0,
+      "transaction_count": 25.2878787879,
+      "total_gold_USD": 387.999432987,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1368.0,
+      "transaction_count": 14.9788011696,
+      "total_gold_USD": 545.1154007895,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "EU",
+      "user_count": 1467.0,
+      "transaction_count": 18.4137695978,
+      "total_gold_USD": 509.2506126667,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Australia",
+      "user_count": 734.0,
+      "transaction_count": 57.5626702997,
+      "total_gold_USD": 1643.9158896526,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3399.0,
+      "transaction_count": 71.1403353928,
+      "total_gold_USD": 727.3818604482,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 64.0,
+      "transaction_count": 18.828125,
+      "total_gold_USD": 671.541824375,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 97.0,
+      "transaction_count": 30.9175257732,
+      "total_gold_USD": 624.2070694845,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 452.0,
+      "transaction_count": 202.3008849558,
+      "total_gold_USD": 3744.3983215044,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 552.0,
+      "transaction_count": 90.5833333333,
+      "total_gold_USD": 614.4806649348,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 32.0,
+      "transaction_count": 17.53125,
+      "total_gold_USD": 155.9615788146,
+      "date": "2021-04-02"
+    },
+    {
+      "region": "Canada",
+      "user_count": 544.0,
+      "transaction_count": 26.5845588235,
+      "total_gold_USD": 742.0160173051,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 9945.0,
+      "transaction_count": 22.869783811,
+      "total_gold_USD": 288.7699466144,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 34232.0,
+      "transaction_count": 16.3049485861,
+      "total_gold_USD": 90.2873201857,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "USA",
+      "user_count": 27922.0,
+      "transaction_count": 139.3407707184,
+      "total_gold_USD": 1662.5562082726,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4416.0,
+      "transaction_count": 62.5674818841,
+      "total_gold_USD": 1306.370186663,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12694.0,
+      "transaction_count": 39.7067118324,
+      "total_gold_USD": 652.9143069189,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8602.0,
+      "transaction_count": 164.9531504301,
+      "total_gold_USD": 1335.1887492525,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "India",
+      "user_count": 82210.0,
+      "transaction_count": 21.1755017638,
+      "total_gold_USD": 123.7147644156,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 2147.0,
+      "transaction_count": 994.3656264555,
+      "total_gold_USD": 3891.1329411601,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 469.0,
+      "transaction_count": 26.473347548,
+      "total_gold_USD": 388.4854971429,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1581.0,
+      "transaction_count": 13.2333965844,
+      "total_gold_USD": 497.8510017078,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "EU",
+      "user_count": 1474.0,
+      "transaction_count": 18.6160108548,
+      "total_gold_USD": 514.2795089891,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Australia",
+      "user_count": 729.0,
+      "transaction_count": 58.0809327846,
+      "total_gold_USD": 1643.2789471358,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3432.0,
+      "transaction_count": 70.9594988345,
+      "total_gold_USD": 723.4652203027,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 63.0,
+      "transaction_count": 18.9841269841,
+      "total_gold_USD": 669.7044782222,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 107.0,
+      "transaction_count": 29.5700934579,
+      "total_gold_USD": 625.5374029019,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 447.0,
+      "transaction_count": 208.033557047,
+      "total_gold_USD": 3796.6790731678,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 558.0,
+      "transaction_count": 92.0143369176,
+      "total_gold_USD": 615.9842323548,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 30.0,
+      "transaction_count": 18.5333333333,
+      "total_gold_USD": 160.6260964565,
+      "date": "2021-04-09"
+    },
+    {
+      "region": "Canada",
+      "user_count": 552.0,
+      "transaction_count": 26.9257246377,
+      "total_gold_USD": 752.4726788786,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Philippines",
+      "user_count": 10198.0,
+      "transaction_count": 23.6249264562,
+      "total_gold_USD": 300.1257073869,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Brazil",
+      "user_count": 35940.0,
+      "transaction_count": 15.663244296,
+      "total_gold_USD": 85.2998748917,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "USA",
+      "user_count": 27864.0,
+      "transaction_count": 136.6827088717,
+      "total_gold_USD": 1626.6457631411,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Singapore",
+      "user_count": 4501.0,
+      "transaction_count": 61.6876249722,
+      "total_gold_USD": 1288.5560259458,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Malaysia",
+      "user_count": 12718.0,
+      "transaction_count": 40.0337317188,
+      "total_gold_USD": 662.6226031694,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Turkey",
+      "user_count": 8935.0,
+      "transaction_count": 161.7667599328,
+      "total_gold_USD": 1321.6683785242,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "India",
+      "user_count": 82326.0,
+      "transaction_count": 21.4094696694,
+      "total_gold_USD": 126.229400209,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Colombia",
+      "user_count": 2215.0,
+      "transaction_count": 1015.9047404063,
+      "total_gold_USD": 3927.1482003584,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Taiwan",
+      "user_count": 462.0,
+      "transaction_count": 26.696969697,
+      "total_gold_USD": 396.7032950649,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Thailand",
+      "user_count": 1586.0,
+      "transaction_count": 13.8366960908,
+      "total_gold_USD": 504.4297495839,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "EU",
+      "user_count": 1479.0,
+      "transaction_count": 18.7762001352,
+      "total_gold_USD": 520.3468952914,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Australia",
+      "user_count": 851.0,
+      "transaction_count": 50.6169212691,
+      "total_gold_USD": 1468.4221774571,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Indonesia",
+      "user_count": 3507.0,
+      "transaction_count": 70.6940404904,
+      "total_gold_USD": 714.7220851514,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "New Zealand",
+      "user_count": 62.0,
+      "transaction_count": 18.6774193548,
+      "total_gold_USD": 676.5592139355,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Hong Kong",
+      "user_count": 113.0,
+      "transaction_count": 28.9115044248,
+      "total_gold_USD": 621.2909489248,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Myanmar",
+      "user_count": 444.0,
+      "transaction_count": 215.0315315315,
+      "total_gold_USD": 3883.7072529437,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Mexico",
+      "user_count": 554.0,
+      "transaction_count": 93.7003610108,
+      "total_gold_USD": 617.1893509043,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Vietnam ",
+      "user_count": 31.0,
+      "transaction_count": 18.2580645161,
+      "total_gold_USD": 156.510437468,
+      "date": "2021-04-16"
+    },
+    {
+      "region": "Canada",
       "user_count": 558.0,
       "transaction_count": 27.1792114695,
       "total_gold_USD": 763.0755809283,
